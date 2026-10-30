@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-cinzel {
+    font-family: 'Cinzel', serif;
+  }
+  .font-retro {
+    font-family: 'VT323', monospace;
+  }
+  .font-gothic {
+    font-family: 'MedievalSharp', cursive, serif;
+  }
+  .text-shadow-ember {
+    text-shadow: 0 0 10px rgba(249, 115, 22, 0.8), 0 0 20px rgba(220, 38, 38, 0.6);
+  }
+  .text-shadow-crimson {
+    text-shadow: 0 0 10px rgba(239, 68, 68, 0.9), 0 0 24px rgba(185, 28, 28, 0.8);
+  }
+  .box-shadow-stone {
+    box-shadow: inset 0 0 0 2px #44403c, inset 0 0 0 4px #1c1917, 0 10px 25px -5px rgba(0, 0, 0, 0.8);
+  }
+}
+
+/* Subtle CRT scanline overlay for old-gen nostalgia */
+.retro-crt-lines {
+  background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%);
+  background-size: 100% 4px;
+}

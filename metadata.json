@@ -1,0 +1,6 @@
+{
+  "name": "MazeFire",
+  "description": "Atmospheric 3D first-person retro stone dungeon maze. Brave 5 deadly labyrinths filled with lava pits, spike traps, and unforgiving countdown timers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
