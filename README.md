@@ -49,5 +49,5 @@ Created independently with a passion for interactive web games and challenging g
 ---
 
 <p align="center">
-  **FIVE LEVELS. ONE JOURNEY. ZERO MERCY.** 🔥
+  FIVE LEVELS. ONE JOURNEY. ZERO MERCY. 🔥
 </p>
